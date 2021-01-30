@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DenoAsync", "DenoAsync\DenoAsync.csproj", "{015BE2EB-FDDD-4C88-B96C-F7FBD5DFBAAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{015BE2EB-FDDD-4C88-B96C-F7FBD5DFBAAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{015BE2EB-FDDD-4C88-B96C-F7FBD5DFBAAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{015BE2EB-FDDD-4C88-B96C-F7FBD5DFBAAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{015BE2EB-FDDD-4C88-B96C-F7FBD5DFBAAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
